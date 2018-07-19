@@ -1,8 +1,8 @@
 ---
 layout: post
-title: I HAZ LAUNCHED!
+title: Enjoy World
 ---
 
-Now I have to think of something to say.
+Friends and family rejoice. You can stop preaching about how I need to write this blog...
 
-![Cat](https://media0.giphy.com/media/SRO0ZwmImic0/giphy.gif)
+I have an addiction. It's one I dream about everyday and can openly talk about. I'ts an addiction that has grown out of control in the last few years and I show no sign of being able to break my habit.

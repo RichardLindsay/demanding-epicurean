@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hey, I'm Richard, a food and drink obsessive. I travel the World, eating and drinking at the finest restaurants and bars. Join me as I try to describe/remember what the hell happened.

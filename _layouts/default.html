@@ -9,13 +9,12 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href="https://fonts.googleapis.com/css?family=Markazi+Text" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
-  <body>
+  <!-- <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -27,7 +26,6 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
@@ -47,5 +45,25 @@
     </div>
 
     {% include analytics.html %}
+  </body> -->
+
+  <body>
+    <header>
+      <div class="wrapper">
+        <a href="{{ site.baseurl }}/" id="logo">{{ site.name }}</a>
+      </div>
+    </header>
+
+    <div id="content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    <footer>
+      <div class="wrapper">
+
+      </div>
+    </footer>
   </body>
 </html>
