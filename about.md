@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hey, I'm Richard, a food and drink obsessive. I travel the World, eating and drinking at the finest restaurants and bars. Join me as I try to describe/remember what the hell happened.
+Hi, I'm Richard. I'm a Web Developer, working in Glasgow, Scotland.
+
+I'm a food and drink obsessive and wanted to share my experiences of travelling the World, dining at the finest restaurants on the planet.
+
+I live in Falkirk, Scotland with my wife Claire.

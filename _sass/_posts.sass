@@ -1,5 +1,20 @@
 .post
-  margin-bottom: 3em
+  padding-bottom: 1.5em
+  margin-bottom: 1em
+  border-bottom: 2px solid #ececec
+
+  &.detail
+    border-bottom: 0
+
+  &:last-child
+    border-bottom: 0
+
+  h1, h2
+    margin-bottom: 0
+
+  h2
+    a
+      font-size: 36px
 
   .meta
     margin-bottom: 1.5em
@@ -19,11 +34,15 @@
       margin: 0 0 1em 1em
       max-width: 50%
 
-  .read_more
-    font-size: 22px
+@media screen and (min-width: 480px)
+  .post
+    h1, h2
+      a
+        font-size: 54px
 
 @media screen and (min-width: 600px)
 
   .post
-    .read_more
-      font-size: 26px
+    h1, h2
+      a
+        font-size: 63px
