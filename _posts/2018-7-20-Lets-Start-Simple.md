@@ -24,6 +24,8 @@ Combine all the ingredients in a cocktail shaker and stir until the sugar has di
 
 Add ice and shake until the tin turns icy cold.
 
-Double strain into a frozen coupe glass and garnish with a lime wheel.
+Double strain into a frozen coupe glass and garnish with a dehydrated lime wheel.
+
+I love using dehydrated citrus as a garnish. It looks awesome and is super easy to make.
 
 Simple but absolutely incredible!
