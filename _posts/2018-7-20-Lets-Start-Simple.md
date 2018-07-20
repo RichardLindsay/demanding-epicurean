@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Let's start simple...and late
-image: https://assets.punchdrink.com/wp-content/uploads/2014/01/key-daiquiri.jpg
+image: https://scontent-lhr3-1.cdninstagram.com/vp/af10dd96f547eb8b7985f471b91d1c65/5BD19A95/t51.2885-15/e35/21819913_130886427539636_4225662294962470912_n.jpg
 ---
 
 What better way to begin this nonsense than with a drink...
 
 If you weren't aware, June 19th was National Daiquiri Day. I forgot.
+
+![A daiquiri](https://scontent-lhr3-1.cdninstagram.com/vp/af10dd96f547eb8b7985f471b91d1c65/5BD19A95/t51.2885-15/e35/21819913_130886427539636_4225662294962470912_n.jpg)
 
 A correctly made Daiquiri is one of the finest things on the earth and I wanted to share how I achieve, what I consider to be, a pretty decent version.
 
@@ -24,8 +26,12 @@ Combine all the ingredients in a cocktail shaker and stir until the sugar has di
 
 Add ice and shake until the tin turns icy cold.
 
-Double strain into a frozen coupe glass and garnish with a dehydrated lime wheel.
+Double strain into a frozen coupe glass and garnish with a lime wheel.
 
-I love using dehydrated citrus as a garnish. It looks awesome and is super easy to make.
+![Top down daiquiri](https://scontent-lhr3-1.cdninstagram.com/vp/763e4c30804e30b30bd9cbd7305ba1cd/5BE77F45/t51.2885-15/e35/21827401_292322271251227_6784713391714861056_n.jpg)
 
-Simple but absolutely incredible!
+Dehydrated citrus as a garnish works well here too. It looks awesome and is super easy to make.
+
+![Dehydrated limes](http://tribecacitizen.com/wp-content/uploads/2014/11/Da-Claudio-dehydrated-limes.jpg)
+
+A simple drink but absolutely incredible!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOMA god, it was incredible
+title: Ronny and the speech
 ---
 
 Having not long returned home from Honeymoon and understandably being skint, we thought it was all over. We were wrong...
