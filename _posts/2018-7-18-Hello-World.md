@@ -16,7 +16,7 @@ It changed my life. The only shimmer of light; it made me realise what was impor
 
 Claire, my wife, was a foodie before I met her. She introduced me to eating well and we've driven each other to trying new and trying all. Pre Claire I eat to live.
 
-Food daftness runs in the family. My mother, brother, Claire and I held a fine dining competition this year with the winner getting a free meal at Restaurant Andrew Fairlie. We are due to visit in August where the winner will be revealed. It's all very tense.
+Food daftness runs in the family. My mother, brother, Claire and I held a fine dining competition this year. I've never been so stressed in all of my life and I'll get to relive it all over again in the coming months when I try to put it into words. The winner of the competition, yet to be revealed, will be treated to a meal at Restaurant Andrew Fairlie in August. It's all very tense.
 
 I aim to blog about my love for food and drink and our experiences at some of the incredible restaurants we have been fortunate to visit. Claire introduced me to food but my love of beer, spirits and cocktails is all of my own making. I love to homebrew beer and mess around with clarification and spherification.
 
