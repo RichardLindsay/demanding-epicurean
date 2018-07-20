@@ -6,7 +6,7 @@ image: https://assets.punchdrink.com/wp-content/uploads/2014/01/key-daiquiri.jpg
 
 What better way to begin this nonsense than with a drink...
 
-If you weren't aware, June 18th was National Daiquiri Day. I forgot.
+If you weren't aware, June 19th was National Daiquiri Day. I forgot.
 
 A correctly made Daiquiri is one of the finest things on the earth and I wanted to share how I achieve, what I consider to be, a pretty decent version.
 
