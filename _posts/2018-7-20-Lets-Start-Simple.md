@@ -12,7 +12,7 @@ If you weren't aware, June 19th was National Daiquiri Day. I forgot.
 
 A correctly made Daiquiri is one of the finest things on the earth and I wanted to share how I achieve, what I consider to be, a pretty decent version.
 
-I've started messing around with dropping simple syrup in favour of bar spoons of caster/superfine sugar.
+I've started messing around with dropping simple syrup in favour of bar spoons of caster/superfine sugar. Omitting the water that the syrup introduces allows you to better control the final dilution of the drink.
 
 I find that 1 bar spoon of sugar equates to roughly a quarter oz/7.5ml of 2:1 finished syrup.
 
