@@ -12,7 +12,6 @@
     <link href="https://fonts.googleapis.com/css?family=Markazi+Text" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
     <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-
   </head>
   <body>
     <header>
@@ -30,7 +29,24 @@
     </footer>
     {% include analytics.html %}
 
-    <script src="/assets/js/main.js"></script>
-
   </body>
+
+  <script type="text/javascript">
+    (function() {
+      if (document.getElementById('search') === null) {
+        return false;
+      }
+
+      var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search'),
+        resultsContainer: document.getElementById('posts'),
+        json: '/search.json',
+        searchResultTemplate: '<article class="post"><h2><a href="{url}">{title}</a></h2><div class="meta"><p class="meta_text">Published on {date}</p></div></article>',
+        noResultsText: '<p>No posts found. Sorry</p><img src="https://media1.giphy.com/media/W5YVAfSttCqre/giphy.gif" class="no_results_image" alt="Nope" />',
+        limit: 10,
+        fuzzy: true
+      });
+    })();
+
+  </script>
 </html>

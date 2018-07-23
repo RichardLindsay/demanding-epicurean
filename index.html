@@ -2,10 +2,11 @@
 layout: default
 ---
 
-<input type="text" id="search" placeholder="Search blog posts..">
-<ul id="results-container"></ul>
+<div class="search_container">
+  <input type="text" id="search" placeholder="Search posts...">
+</div>
 
-<div class="posts">
+<div class="posts" id="posts">
   {% for post in site.posts %}
     <article class="post">
 
