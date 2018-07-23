@@ -1,7 +1,10 @@
 .post
-  border-bottom: 2px solid #ececec
-  margin-bottom: 3em
-  padding-bottom: 3.5em
+  margin-bottom: 1.5em
+  position: relative
+
+  &:hover, &:focus
+    a
+      color: #63c902
 
   &.detail
     border-bottom: 0
@@ -47,6 +50,8 @@
 @media screen and (min-width: 600px)
 
   .post
+    margin-bottom: 3em
+
     h1, h2
       a
         font-size: 63px
