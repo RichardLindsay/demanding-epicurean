@@ -1,13 +1,26 @@
 header
-  padding: 2em 0
+  padding: 2em 0 4em
+  text-align: center
+
+  // #logo
+  //   width: 95px
+  //   height: 80px
+  //   background-image: url("assets/images/logo.svg")
+  //   display: block
+  //   background-repeat: no-repeat
+  //   background-size: cover
 
   #logo
-    width: 95px
-    height: 80px
-    background-image: url("images/logo.svg")
-    display: block
-    background-repeat: no-repeat
-    background-size: cover
+    font-size: 0
+    line-height: 1.11111
+    text-decoration: none
+
+    span
+      font-family: 'Bree Serif'
+      font-size: 24px
+
+      &:last-of-type
+        color: #b29000
 
   a
     font-size: 22px
@@ -16,8 +29,8 @@ header
 
   header
     #logo
-      width: 130px
-      height: 110px
+      span
+        font-size: 32px
 
     a
       font-size: 26px
