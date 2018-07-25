@@ -17,13 +17,13 @@ A correctly made Daiquiri is one of the finest things on the earth and I wanted 
 
 I've started messing around with dropping simple syrup in favour of bar spoons of caster/superfine sugar. Omitting the water that the syrup introduces allows you to better control the final dilution of the drink.
 
-I find that 1 bar spoon of sugar equates to roughly a quarter oz/7.5ml of 2:1 finished syrup.
+I find that 1 bar spoon of sugar equates to roughly a quarter oz/7.5ml of 2:1 finished syrup. If you don't have a bar spoon a teaspoon will work just as well.
 
 Anyway, my recipe is as follows:
 
 * 2oz/60ml of white rum
 * 1oz/30ml freshly squeezed lime juice
-* 2 bar spoons of caster/superfine sugar
+* 2 bar spoons/teaspoons of caster/superfine sugar
 
 Combine all the ingredients in a cocktail shaker and stir until the sugar has dissolved.
 

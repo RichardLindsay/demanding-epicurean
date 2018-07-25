@@ -10,6 +10,10 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      {% if post.image %}
+      <img src="{{ site.baseurl }}{{ post.image }}" alt="" class="post_image">
+      {% endif %}
+
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="meta">
         <p class="meta_text">Published on {{ post.date | date: "%B %e, %Y" }}</p>
@@ -19,7 +23,9 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read_more">Read More</a>
+      <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read_more">Read More</a> -->
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="big_link" tabindex="-1" aria-hidden="true"></a>
     </article>
   {% endfor %}
 </div>

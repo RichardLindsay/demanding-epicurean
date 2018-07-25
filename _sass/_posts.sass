@@ -1,11 +1,18 @@
 .post
-  border-bottom: 2px solid #ececec
-  margin-bottom: 3em
-  padding-bottom: 3.5em
+  margin-bottom: 1.5em
+  position: relative
+
+  &:hover, &:focus
+    a
+      color: #b29000
 
   &.detail
     border-bottom: 0
     padding-bottom: 0
+
+    img
+      border-radius: 4px
+
 
   &:last-child
     border-bottom: 0
@@ -15,7 +22,9 @@
 
   h2
     a
-      font-size: 36px
+      font-size: 28px
+      line-height: 1.22222
+
 
   .meta
     margin-bottom: 1.5em
@@ -23,6 +32,12 @@
   .meta_text
     color: #ccc
     margin-bottom: 0
+
+  .post_image
+    height: 220px
+    object-fit: cover
+    margin-bottom: 1em
+    border-radius: 4px
 
   img
     display: block
@@ -42,14 +57,22 @@
   .post
     h1, h2
       a
-        font-size: 54px
+        font-size: 42px
+
+    .post_image
+      height: 300px
 
 @media screen and (min-width: 600px)
 
   .post
+    margin-bottom: 3em
+
     h1, h2
       a
-        font-size: 63px
+        font-size: 48px
+
+    .post_image
+      height: 400px
 
     img
       max-width: 600px

@@ -1,12 +1,22 @@
 header
   padding: 2em 0
 
-  a
-    font-size: 22px
+  #logo
+    display: inline-block
+    height: auto
+    width: 100%
 
-@media screen and (min-width: 600px)
+    img
+      display: block
+
+@media screen and (min-width: 480px)
 
   header
+    #logo
+      max-width: 80%
 
-    a
-      font-size: 26px
+@media screen and (min-width: 740px)
+
+  header
+    #logo
+      width: 60%
