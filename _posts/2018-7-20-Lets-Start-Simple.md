@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's start simple...and late
-tags: ['Drink', 'Daiquiri']
+tags: [Drink, Daiquiri]
 location:
 restaurant:
 image: https://scontent-lhr3-1.cdninstagram.com/vp/af10dd96f547eb8b7985f471b91d1c65/5BD19A95/t51.2885-15/e35/21819913_130886427539636_4225662294962470912_n.jpg
