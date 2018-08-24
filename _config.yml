@@ -18,8 +18,6 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-49109712-5
 
-future: true
-
 # Social media accounts
 social_networks:
   twitter: richard_lindsay
