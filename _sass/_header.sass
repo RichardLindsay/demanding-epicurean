@@ -2,21 +2,24 @@ header
   padding: 2em 0
 
   #logo
+    border: 0
+    color: #b29000
     display: inline-block
-    height: auto
-    width: 100%
+    font-family: 'Leckerli One'
+    font-size: 80px
+    text-decoration: none
 
-    img
-      display: block
+    &:hover, &:focus
+      color: #000
 
 @media screen and (min-width: 480px)
 
   header
     #logo
-      max-width: 80%
+      font-size: 100px
 
 @media screen and (min-width: 740px)
 
   header
     #logo
-      width: 60%
+      font-size: 120px
